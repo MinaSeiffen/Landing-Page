@@ -1,0 +1,18 @@
+html {
+  scroll-snap-type: y mandatory;
+  scroll-behavior: smooth;
+  scrollbar-width: none;
+}
+
+body {
+  /* /* background: rgb(15, 5, 29); */
+  background: linear-gradient(135deg, rgba(16,6,52,1) 0%, rgba(15,5,29,1) 25%, rgba(15,5,29,1) 75%, rgba(16,6,52,1) 100%);  
+  /* background: linear-gradient(to right, #6441a5, #2a0845); */
+  /* background: linear-gradient(70deg, #0559e9 , #0f051d); */
+  color: lightgray;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
